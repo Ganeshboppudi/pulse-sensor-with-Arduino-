@@ -1,0 +1,2 @@
+# pulse-sensor-with-Arduino-
+Pulse Sensor Amped is a plug-and-play heart-rate sensor for Arduino and Arduino compatibles. It can be used by students, artists, athletes, makers, and game &amp; mobile developers who want to easily incorporate live heart-rate data into their projects. Pulse Sensor adds amplification and noise cancellation circuitry to the hardware. It's noticeably faster and easier to get reliable pulse readings. Pulse Sensor Amped works with either a 3V or 5V Arduino.
